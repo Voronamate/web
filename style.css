@@ -1,0 +1,12 @@
+nav a {
+    text-decoration: none;
+    color: blue;
+    transition: 0.5s;
+}
+
+nav a:hover {
+    color: crimson;
+    background-color: darkgrey;
+    font-weight: bold;
+    font-style: italic;
+}
